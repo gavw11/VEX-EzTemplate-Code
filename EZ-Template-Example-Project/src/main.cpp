@@ -20,7 +20,7 @@ ez::Drive chassis(
 
 
 const int numStates = 3;
-double states[numStates] = {0, 230.0, 870.0};
+double states[numStates] = {0, 225.0, 870.0};
 int currentState = 0;
 int target;
  
