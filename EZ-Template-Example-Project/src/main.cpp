@@ -52,7 +52,7 @@ void initialize() {
     }
   });
   */
-  
+
   lb.tare_position();
   lb.set_brake_mode(MOTOR_BRAKE_HOLD);
   // Print our branding over your terminal :D
@@ -80,6 +80,7 @@ void initialize() {
 
   ez::as::auton_selector.autons_add({
     {"Sigma boy >:)", test2},
+    {"OO LALA", test3}
   });
 }
 
