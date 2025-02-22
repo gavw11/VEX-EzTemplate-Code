@@ -80,7 +80,8 @@ void initialize() {
 
   ez::as::auton_selector.autons_add({
     {"Sigma boy >:)", test2},
-    {"OO LALA", test3}
+    {"OO LALA", test3},
+    {"PLEASE WORKKKKKKKKKKKK", test4}
   });
 }
 
